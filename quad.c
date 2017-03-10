@@ -5,8 +5,8 @@ void quadrato( int lato);{
      float diagonale;
      diagonale=lato*sqrt(2);
      printf("la diagonale vale %.2f\n",diagonale);
-    printf("il perimetro vale %d",lato*4);
-    printf("l\'area vale %d",lato*lato);}
+Â Â Â Â printf("il perimetro vale %d",lato*4);
+Â Â Â Â printf("l\'area vale %d",lato*lato);}
 main() {
 	int a;
 	do { 
